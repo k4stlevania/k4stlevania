@@ -40,7 +40,7 @@ Actualmente estoy aprendiendo y trabajando con **Node.js, PostgreSQL ademas de t
 
 # 🚀 Proyectos
 
-## 🎮 [Proyecto 1 — Video Game API]
+## 🎮 [Proyecto 1 — Gestion de Videojuegos]
 
 **API REST para administrar videojuegos, desarrollada con Spring Boot.**
 
@@ -59,30 +59,26 @@ Una aplicación backend que permite gestionar videojuegos mediante operaciones C
 
 `Java` `Spring Boot` `Spring Data JPA` `MySQL` `REST API`
 
-🔗 [Ver repositorio](https://github.com/tu-usuario/proyecto-videojuegos)
+🔗 [Ver repositorio](https://github.com/k4stlevania/examen-java-videojuegos)
 
 ---
 
-## 🎵 [Proyecto 2 — Music Library API]
+## 🎵 [Proyecto 2 — App todo basica ]
 
-**API REST para administrar una biblioteca musical.**
+**creacion de tareas basica**
 
-Proyecto enfocado en practicar desarrollo de APIs, relaciones entre entidades y consultas a bases de datos.
+Proyecto enfocado en practicar el uso de de clases en JavaScript y el consumo de apis
 
 ### Características
 
-* Gestión de artistas
-* Gestión de álbumes
-* Gestión de canciones
-* Relaciones entre entidades
-* CRUD completo
-* Consultas SQL/JPA
+* Uso de OOP
+* Consumo de api
 
 ### Tecnologías
 
-`Java` `Spring Boot` `PostgreSQL` `JPA` `REST API`
+`JavaScript` `CSS3` `HTML5`
 
-🔗 [Ver repositorio](https://github.com/tu-usuario/music-library-api)
+🔗 [Ver repositorio](https://github.com/k4stlevania/m4-todo)
 
 ---
 
@@ -106,46 +102,19 @@ Proyecto orientado a practicar autenticación, manejo de usuarios, subida de arc
 
 `Node.js` `Express` `PostgreSQL` `JWT` `JavaScript`
 
-🔗 [Ver repositorio](https://github.com/tu-usuario/users-api)
+🔗 [Ver repositorio](https://github.com/k4stlevania/ABP-8)
 
 ---
 
-## 🧠 [Proyecto 4 — Mente Libre]
-
-**Plataforma de publicaciones y conversación anónima.**
-
-Proyecto colaborativo desarrollado para practicar el desarrollo de una aplicación full-stack utilizando una arquitectura separada entre frontend y backend.
-
-### Características
-
-* Publicaciones anónimas
-* Comentarios
-* Sistema de likes
-* Sistema de reputación
-* Notificaciones
-* Autenticación
-* Roles y permisos
-* Frontend independiente
-
-### Tecnologías
-
-`Java` `Spring Boot` `Vue.js` `MySQL` `Spring Security` `JWT`
-
-🔗 [Ver repositorio](https://github.com/tu-usuario/mente-libre)
-
----
 
 # 📚 Actualmente aprendiendo
 
-* ☕ Java & Spring Boot
-* 🔐 Spring Security & JWT
+*    Typescript
 * 🌐 REST APIs
 * 🟢 Node.js & Express
 * 🗄️ PostgreSQL
-* 🟩 Vue.js
 * 🐧 Linux
 * 🐳 Docker
-* 🧪 Testing
 
 ---
 
@@ -155,18 +124,10 @@ Proyecto colaborativo desarrollado para practicar el desarrollo de una aplicaci�
 * Mejorar mis conocimientos de arquitectura de software
 * Aprender buenas prácticas de desarrollo
 * Crear proyectos full-stack
-* Contribuir a proyectos open source
 * Continuar desarrollando mi portfolio
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight)
-
----
 
 # 📫 Contacto
 
@@ -176,6 +137,4 @@ Proyecto colaborativo desarrollado para practicar el desarrollo de una aplicaci�
 
 🐙 **GitHub:** [@TU_USUARIO](https://github.com/TU_USUARIO)
 
----
 
-> *"Always learning, always building."*
