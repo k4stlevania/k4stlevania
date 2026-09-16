@@ -131,10 +131,10 @@ Proyecto orientado a practicar autenticación, manejo de usuarios, subida de arc
 
 # 📫 Contacto
 
-📧 **Email:** [[tu-email@email.com](mailto:frncisco1243@email.com)]
+📧 **Email:** [[frncisco1243@email.com](mailto:frncisco1243@email.com)]
 
 💼 **LinkedIn:** [Tu perfil de LinkedIn](https://linkedin.com)
 
-🐙 **GitHub:** [@TU_USUARIO](https://github.com/k4stlevania)
+🐙 **GitHub:** [@k4stlevania](https://github.com/k4stlevania)
 
 
